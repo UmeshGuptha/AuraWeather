@@ -1,0 +1,5 @@
+{
+  "name": "AuraWeather",
+  "description": "A modern weather forecasting app that provides real-time temperature, AQI, detailed forecasts, and lifestyle indices for Indian cities, all powered by AI.",
+  "requestFramePermissions": []
+}
